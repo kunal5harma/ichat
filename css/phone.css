@@ -1,0 +1,22 @@
+
+h1 {
+    font-size: 30px;
+}
+
+.container {
+    font-size: 9px;
+    padding: 8px;
+}
+
+#messageInp {
+    height: 20px;
+    font-size: 9px;
+    width: 75%;
+}
+
+.btn {
+    width: 15%;
+    height: 25px;
+    font-size: 10px;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+}
